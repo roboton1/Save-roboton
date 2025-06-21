@@ -1,1 +1,3 @@
-# Save-roboton
+# ロボトン市を救う・正式版
+ロボトン市を救って英雄になろう、それか隣町と連携しロボトン市を破壊するか、選択肢でエンディングが変わる！
+詳細は→ https://roboton1.github.io/Save-roboton/
